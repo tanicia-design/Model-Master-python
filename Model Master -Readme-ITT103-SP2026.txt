@@ -33,4 +33,14 @@ In addition it display quantity for each item,add tax and add discount if custom
 8. If order subtotal is greater than 5000 apply a 5% discount.
 9. after receiving cash select cashout.
 
+
 so far all code in this program works but avoid making in wrong order
+
+
+The link below takes you to a flowchart that give you a break down of the program.
+https://drive.google.com/file/d/1nQbTPuJsMZqa384Zcs5CjbkjGvcSwdpx/view?usp=sharing
+
+
+
+
+
