@@ -2,7 +2,7 @@
 AUTHORS: Dahvion Beckford, Tanicia Hartley
 Date :3/3/2026
 Course: ITT103
-github Public Url to code: https://gist.github.com/dahvion-web/bf685e186ad9f1651f0c16e5ea7163c9
+https://github.com/tanicia-design/Model-Master-python/edit/main/model%20master%20README.md
 
 
 #Best buy retail store
