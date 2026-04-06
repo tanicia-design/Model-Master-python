@@ -41,7 +41,7 @@ so far all code in this program works but avoid making in wrong order
 The link below takes you to a flowchart that give you a break down of the program:
 https://drive.google.com/file/d/1nQbTPuJsMZqa384Zcs5CjbkjGvcSwdpx/view?usp=sharing
 
-This link takes you to a pusedocode:
+This link takes you to a pseudocode:
 https://docs.google.com/document/d/1hnlQWkAx_P0zQIo4JCUTp4Vz_fju9_fuNUtrdRMPy1U/edit?usp=sharing
 
 
