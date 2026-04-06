@@ -1,5 +1,6 @@
 # Model-Master-python
-AUTHORS: Dahvion Beckford, Tanicia Hartley
+AUTHORS: Dahvion Beckford 20256588
+         Tanicia Hartley  20256381
 Date :3/3/2026
 Course: ITT103
 https://github.com/tanicia-design/Model-Master-python/edit/main/model%20master%20README.md
