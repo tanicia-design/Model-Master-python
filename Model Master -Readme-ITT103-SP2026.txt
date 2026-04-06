@@ -29,7 +29,7 @@ In addition it display quantity for each item,add tax and add discount if custom
 6. Add items to chart.
 #  The system will display if the store is low in stock and you have just took the last order.
 ## it will then display sorry order is out of stock on the item or items.
-7. select order complete.
+7. select order is complete.
 ## 10% tax will be added to the total automatically.
 8. If order subtotal is greater than 5000 apply a 5% discount.
 9. after receiving cash select cashout.
